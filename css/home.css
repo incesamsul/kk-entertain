@@ -1,0 +1,394 @@
+body {
+    overflow-x: hidden;
+    font-family: Helvetica;
+    /* transition: 1s all; */
+}
+
+a {
+    text-decoration: none;
+}
+
+.floating_btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+@keyframes pulsing {
+    to {
+        box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
+    }
+}
+
+.contact_icon {
+    /* background-color: #42db87; */
+    background-color: #E25696;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translatey(0px);
+    animation: pulse 1.5s infinite;
+    box-shadow: 0 0 0 0 #6F8DED;
+    -webkit-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    -moz-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    -ms-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    font-weight: normal;
+    font-family: sans-serif;
+    text-decoration: none !important;
+    transition: all 300ms ease-in-out;
+}
+
+body nav.navbar .container .collapse li a.my-btn {
+    background-color: #0071E3;
+    border-radius: 90px;
+    padding: 5px 25px 5px 25px !important;
+    margin-top: 8px;
+    flex-shrink: 0;
+    color: white !important;
+}
+
+
+
+.text_icon {
+    margin-top: 8px;
+    color: #707070;
+    font-size: 13px;
+}
+
+section {
+    width: 100vw;
+    margin-right: 0 !important;
+}
+
+section#hero,
+section#lightning {
+    height: 100vh;
+    position: relative;
+}
+
+.text-big {
+    font-size: 94px;
+}
+
+section#sound {
+    height: 50vh;
+}
+
+section#hero h1 {
+    font-size: 123px;
+    font-weight: bold;
+    font-family: Helvetica;
+    letter-spacing: 5px;
+}
+
+
+
+.gradient-text {
+    background: linear-gradient(to right, #2DA2B5, #6A8FEF, #DB64C0, #EE4256);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.sound {
+    opacity: 0;
+}
+
+.light1,
+.light2 {
+    position: relative;
+    z-index: 99;
+}
+
+.light1-text-top,
+.light2-text-top,
+.middle-text,
+.middle-text-sound {
+    font-family: Helvetica;
+    position: absolute;
+    font-weight: bold;
+}
+
+.light1-text-top {
+    top: 10%;
+    right: 10%;
+    opacity: 0;
+    z-index: -1;
+}
+
+.light2-text-top {
+    top: 10%;
+    left: 10%;
+    opacity: 0;
+    z-index: -1;
+}
+
+.middle-text,
+.middle-text-sound {
+    top: 50%;
+    left: 40%;
+    z-index: -10;
+    scale: 0.5;
+    opacity: 0;
+}
+
+.video {
+    width: 100vw;
+    /* height: 100vh; */
+}
+
+.vid-overlay,
+.text-overlay,
+.text-overlay-2 {
+    width: 100vw;
+    height: 99%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.vid-overlay {
+    z-index: 1;
+    background-color: black;
+    opacity: 0;
+}
+
+.text-overlay,
+.text-overlay-2 {
+    z-index: 2;
+    /* background-color: red; */
+    opacity: 0;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.acara-text {
+    opacity: 0;
+}
+
+.reveal-on-scroll .item {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s, transform 0.5s;
+}
+
+.reveal-on-scroll .item.reveal {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+footer.ftco-footer {
+    margin-top: 100px;
+}
+
+br.mobile {
+    display: none;
+}
+
+
+@media (max-width: 1240px) {
+    section#hero h1 {
+        font-size: 80px !important;
+    }
+
+
+    .light1-text-top,
+    .light2-text-top,
+    .middle-text,
+    .middle-text-sound {
+        font-size: 30px;
+    }
+
+    .light1 {
+        width: 500px;
+    }
+
+    .light2 {
+        width: 270px;
+    }
+
+    .sound {
+        width: 800px;
+    }
+
+    footer.ftco-footer {
+        margin-top: 200px !important;
+    }
+
+}
+
+@media (max-width: 868px) {
+    section#hero h1 {
+        font-size: 70px !important;
+    }
+
+
+    .light1-text-top,
+    .light2-text-top,
+    .middle-text,
+    .middle-text-sound {
+        font-size: 20px;
+    }
+
+    .light1 {
+        width: 330px;
+    }
+
+    .light2 {
+        width: 150px;
+    }
+
+    .sound {
+        width: 500px;
+    }
+
+    .acara-text {
+        font-size: 60px;
+    }
+
+    .text-overlay p,
+    .text-overlay-2 p {
+        font-size: 9px;
+    }
+
+    .text-overlay button,
+    .text-overlay-2 button {
+        font-size: 6px;
+    }
+
+    .text-overlay .badge-list,
+    .text-overlay-2 .badge-list {
+        margin-top: 10px !important;
+    }
+
+    .text-overlay h1,
+    .text-overlay-2 h1 {
+        font-size: 14px;
+    }
+
+    section#klien h1 {
+        font-size: 60px;
+    }
+
+    section#klien .item img {
+        width: 100px !important;
+    }
+
+    section#klien .smaller-item .item img {
+        width: 50px !important;
+    }
+
+    .navbar-collapse ul li a {
+        color: white !important;
+    }
+
+    footer.ftco-footer {
+        margin-top: 200px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    section#hero h1 {
+        font-size: 50px !important;
+        transform: translateY(-90px);
+        transition: 1s ease;
+    }
+
+    .light1-text-top,
+    .light2-text-top {
+        display: none;
+    }
+
+    .middle-text,
+    .middle-text-sound {
+        font-size: 27px;
+        left: 33%;
+    }
+
+    .light1 {
+        width: 330px;
+    }
+
+    .light2 {
+        width: 150px;
+    }
+
+    .sound {
+        transform: translateY(-200px);
+        width: 100%;
+    }
+
+    .acara-text {
+        font-size: 30px;
+    }
+
+
+
+    .text-overlay button,
+    .text-overlay-2 button {
+        font-size: 14px;
+    }
+
+    .text-overlay .badge-list,
+    .text-overlay-2 .badge-list {
+        margin-top: 10px !important;
+    }
+
+    .text-overlay h1,
+    .text-overlay-2 h1 {
+        font-size: 34px;
+    }
+
+
+    .text-overlay p,
+    .text-overlay-2 p {
+        font-size: 14px;
+    }
+
+    section#klien h1 {
+        font-size: 60px;
+    }
+
+    section#klien .item img {
+        width: 100px !important;
+        margin-top: 50px;
+    }
+
+    section#klien .smaller-item .item img {
+        width: 50px !important;
+        margin-top: 50px;
+    }
+
+    .navbar-collapse ul li a {
+        color: white !important;
+    }
+
+    .video {
+        height: 100vh;
+        object-fit: cover;
+    }
+
+    br.mobile {
+        display: block;
+    }
+
+    footer.ftco-footer {
+        margin-top: 200px !important;
+    }
+}
