@@ -102,16 +102,12 @@
 				</div>
 				<div class="col-md">
 					<div class="ftco-footer-widget mb-4">
-						<h2 class="ftco-heading-2">Have a Questions?</h2>
-						<div class="block-23 mb-3">
-							<ul>
-								<li><span class="icon icon-map-marker"></span><span class="text">Jl tamalate 1 no
-										10</span></li>
-								<li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929
-											210</span></a></li>
-								<li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@mail.com</span></a></li>
-							</ul>
-						</div>
+						<h2 class="ftco-heading-2">Contact</h2>
+						<ul class="list-unstyled">
+							<li><a href="#" class="py-2 d-block">Makassar</a></li>
+							<li><a href="#" class="py-2 d-block">info@kkentertain.com</a></li>
+							<li><a href="#" class="py-2 d-block">082345678910</a></li>
+						</ul>
 					</div>
 				</div>
 			</div>

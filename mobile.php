@@ -48,7 +48,7 @@
                 <div class="card d-flex justify-content-center align-items-center" id="video">
                     <!-- <h4><strong>Acara terbaru</strong></h4> -->
                     <div class="text-center">
-                        <video class="video" src="./vids/maxie.mp4" autoplay muted loop></video>
+                        <video loading="lazy" class="video" src="./vids/maxie.mp4" autoplay muted loop></video>
                     </div>
                     <div class="video-overlay-wrapper">
                         <button class="badge btn btn-outline-primary">Acara terbaru</button>
@@ -66,7 +66,7 @@
                 <div class="card d-flex justify-content-center align-items-center" id="video">
                     <!-- <h4><strong>Acara terbaru</strong></h4> -->
                     <div class="text-center">
-                        <video class="video" src="./vids/taspen.mp4" autoplay muted loop></video>
+                        <video loading="lazy" class="video" src="./vids/taspen.mp4" autoplay muted loop></video>
                     </div>
                     <div class="video-overlay-wrapper">
                         <button class="badge btn btn-outline-primary">Acara terbaru</button>

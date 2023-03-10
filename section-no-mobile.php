@@ -48,10 +48,7 @@
 </section>
 
 <section id="maxie-event-vid" class="no-mobile">
-    <!-- <video autoplay="autoplay" loop="loop" muted defaultMuted playsinline  oncontextmenu="return false;"  preload="auto"  id="myVideo">
-			<source src="assets/video/1.mp4" type="video/mp4">
-			</video> -->
-    <video class="video" src="./vids/maxie.mp4" autoplay muted loop></video>
+    <video loading="lazy" class="video" src="./vids/maxie.mp4" autoplay muted loop></video>
     <div class="vid-overlay"></div>
     <div class="text-overlay d-flex justify-content-center align-items-center">
         <div class="container">
