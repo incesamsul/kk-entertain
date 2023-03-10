@@ -6,6 +6,7 @@ function cekDevices() {
     if (viewportWidth < 576) {
         // Execute code for mobile screens
         console.log('Mobile screen detected.');
+        scrollMagicAnimationMobile();
     } else {
         // Execute code for larger screens
         console.log('Desktop or tablet screen detected.');
@@ -160,5 +161,22 @@ function scrollMagicAnimation() {
             .setClassToggle(this, "reveal") // Add reveal class to item
             .addTo(controller);
     });
+
+}
+
+
+function scrollMagicAnimationMobile() {
+
+
+    $(".reveal-on-scroll .item").each(function () {
+        new ScrollMagic.Scene({
+            triggerElement: this,
+            triggerHook: 0.8, // Trigger at 80% of viewport height
+            duration: "100%", // Reveal over full height of item
+        })
+            .setClassToggle(this, "reveal") // Add reveal class to item
+            .addTo(controller);
+    });
+
 
 }
