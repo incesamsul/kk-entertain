@@ -66,7 +66,7 @@
 						<div class="video-overlay-wrapper">
 							<button class="badge btn btn-outline-primary">Acara terbaru</button>
 							<div class="capt-wrapper">
-								<h1 class="text-white"><strong>Maxie event</strong></h1>
+								<h1 class="text-dark"><strong>Maxie event</strong></h1>
 								<p><small><strong>Malam penyerahan reward</strong></small></p>
 							</div>
 						</div>
@@ -84,7 +84,7 @@
 						<div class="video-overlay-wrapper">
 							<button class="badge btn btn-outline-primary">Acara terbaru</button>
 							<div class="capt-wrapper">
-								<h1 class="text-white"><strong>Hut Taspen</strong></h1>
+								<h1 class="text-dark"><strong>Hut Taspen</strong></h1>
 								<p><small><strong>Hut ke 80 taspen</strong></small></p>
 							</div>
 						</div>
@@ -163,7 +163,7 @@
 
 
 
-	<?php include 'js-no-scmagic.php.php' ?>
+	<?php include 'js-no-scmagic.php' ?>
 
 </body>
 
