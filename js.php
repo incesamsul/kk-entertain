@@ -28,6 +28,7 @@
     $(document).ready(function() {
         $(".owl-carousel").owlCarousel({
             items: 1,
+            scrollOverflow: true // allow scrolling within the carousel container
         });
     })
 </script>
