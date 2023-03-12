@@ -8,9 +8,9 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active"><a href="" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="" class="nav-link">Galeri</a></li>
-                <li class="nav-item"><a href="" class="nav-link">Video</a></li>
+                <li class="nav-item active"><a href="./" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="./galeri.php" class="nav-link">Galeri</a></li>
+                <li class="nav-item"><a href="./video.php" class="nav-link">Video</a></li>
                 <li class="nav-item"><a href="./portfolio.php" class="nav-link">Portfolio</a></li>
                 <li class="nav-item mr-md-2"><a target="_blank" href="https://api.whatsapp.com/send?phone=6282194382201&text=Halo" class="nav-link my-btn">Kirim Pesan</a></li>
 
