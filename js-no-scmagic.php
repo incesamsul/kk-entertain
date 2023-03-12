@@ -27,5 +27,21 @@
         $(".owl-carousel").owlCarousel({
             items: 1,
         });
+
+
+
+
     })
+
+    var controller = new ScrollMagic.Controller();
+
+    $(".reveal-on-scroll .item").each(function() {
+        new ScrollMagic.Scene({
+                triggerElement: this,
+                triggerHook: 0.8, // Trigger at 80% of viewport height
+                duration: "100%", // Reveal over full height of item
+            })
+            .setClassToggle(this, "reveal") // Add reveal class to item
+            .addTo(controller);
+    });
 </script>

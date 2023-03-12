@@ -10,11 +10,11 @@
     </div>
 </div>
 
-<div class="mobile mt-5" id="cards">
+<div class="mobile mt-5 reveal-on-scroll" id="cards">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <div class="card text-center">
+                <div class="card item text-center">
                     <h4><strong>Lightning Berkualitas</strong></h4>
                     <div class="owl-carousel">
                         <div class="text-center d-flex justify-content-center align-items-center flex-column">
@@ -33,7 +33,7 @@
         </div>
         <div class="row mt-4">
             <div class="col-sm-12">
-                <div class="card d-flex justify-content-center align-items-center">
+                <div class="card item d-flex justify-content-center align-items-center">
                     <h4><strong>Sound Berkualitas</strong></h4>
                     <div class="text-center">
                         <img src="./images/sound.png" alt="" width="200" class="mt-4">
@@ -45,7 +45,7 @@
         </div>
         <div class="row mt-4">
             <div class="col-sm-12">
-                <div class="card d-flex justify-content-center align-items-center" id="video">
+                <div class="card item d-flex justify-content-center align-items-center" id="video">
                     <!-- <h4><strong>Acara terbaru</strong></h4> -->
                     <div class="text-center">
                         <video loading="lazy" class="video" src="./vids/maxie.mp4" autoplay muted loop></video>
@@ -63,7 +63,7 @@
 
         <div class="row mt-4">
             <div class="col-sm-12">
-                <div class="card d-flex justify-content-center align-items-center" id="video">
+                <div class="card item d-flex justify-content-center align-items-center" id="video">
                     <!-- <h4><strong>Acara terbaru</strong></h4> -->
                     <div class="text-center">
                         <video loading="lazy" class="video" src="./vids/taspen.mp4" autoplay muted loop></video>
@@ -81,7 +81,7 @@
     </div>
 </div>
 
-<section id="klien" class="mobile">
+<section id="klien" class="mobile reveal-on-scroll">
     <div class="container">
         <div class="row   ">
             <div class="col-sm-12 text-center item">

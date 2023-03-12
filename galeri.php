@@ -196,10 +196,10 @@
 
 	?>
 
-	<div class="mt-5" id="cards">
+	<div class="mt-5 reveal-on-scroll" id="cards">
 		<div class="container">
 			<?php foreach ($portfolio as $row) : ?>
-				<div class="grid-item">
+				<div class="grid-item item">
 					<img src="<?= $row['img1'] ?>" />
 				</div>
 			<?php endforeach; ?>

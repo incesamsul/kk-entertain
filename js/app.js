@@ -168,6 +168,8 @@ function scrollMagicAnimation() {
 function scrollMagicAnimationMobile() {
 
 
+    var controller = new ScrollMagic.Controller();
+
     $(".reveal-on-scroll .item").each(function () {
         new ScrollMagic.Scene({
             triggerElement: this,

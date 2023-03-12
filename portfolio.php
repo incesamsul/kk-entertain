@@ -145,12 +145,12 @@
 
 	?>
 
-	<div class="mt-5" id="cards">
+	<div class="reveal-on-scroll mt-5" id="cards">
 		<div class="container">
 			<div class="row">
 				<?php foreach ($portfolio as $row) : ?>
 					<div class="col-sm-4 mt-5">
-						<div class="card card-custom text-center px-0">
+						<div class="card card-custom text-center px-0 item">
 							<h4 class="px-5"><strong><?= $row['nama_event'] ?></strong></h4>
 							<div class="text-center d-flex justify-content-center align-items-center flex-column">
 								<img src="<?= $row['img1'] ?>" alt="" width="200" class="mt-4" style="width: 100%; height:190px; object-fit:cover;">
