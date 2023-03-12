@@ -35,7 +35,6 @@
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: center;
-			padding: 0 10%;
 		}
 
 		/* // The magic */
@@ -200,7 +199,7 @@
 		<div class="container">
 			<?php foreach ($portfolio as $row) : ?>
 				<div class="grid-item item">
-					<img src="<?= $row['img1'] ?>" />
+					<img alt="<?= $row['nama_event'] ?>" src="<?= $row['img1'] ?>" />
 				</div>
 			<?php endforeach; ?>
 		</div>

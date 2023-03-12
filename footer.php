@@ -3,10 +3,11 @@
         <div class="row mb-5">
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">KK Enntertain</h2>
-                    <p>KK Entertain adalah sebuah perusahaan event organizer yang berbasis di makassar, Indonesia.
+                    <h2 class="ftco-heading-2 ml-5 pl-3">KK Enntertain</h2>
+                    <img class="" src="./images/logo.jpeg" alt="logo" style="width: 60px; height:60px;">
+                    <small>KK Entertain adalah sebuah perusahaan event organizer yang berbasis di makassar, Indonesia.
                         Perusahaan ini berfokus pada penyelenggaraan acara-acara hiburan seperti konser musik,
-                        pertunjukan seni, festival, dan acara perusahaan. </p>
+                        pertunjukan seni, festival, dan acara perusahaan. </small>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                         <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
