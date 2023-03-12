@@ -155,7 +155,7 @@
 							<div class="text-center d-flex justify-content-center align-items-center flex-column">
 								<img src="<?= $row['img1'] ?>" alt="" width="200" class="mt-4" style="width: 100%; height:190px; object-fit:cover;">
 								<p class="text-secondary mb-0 mt-4"><strong><?= $row['tgl_event'] ?></strong></p>
-								<p><strong><button class="my-btn btn"><small>Selengkapnya</small></button></strong></p>
+								<!-- <p><strong><button class="my-btn btn"><small>Selengkapnya</small></button></strong></p> -->
 							</div>
 						</div>
 					</div>
