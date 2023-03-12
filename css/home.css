@@ -307,6 +307,24 @@ br.mobile {
     display: none;
 }
 
+.card-custom {
+    background-color: #F5F5F7;
+    border: none;
+    padding: 40px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.my-btn {
+    background-color: #0071E3;
+    border-radius: 90px;
+    padding: 5px 25px 5px 25px !important;
+    margin-top: 8px;
+    flex-shrink: 0;
+    color: white !important;
+}
+
+
 @media (max-width: 576px) {
 
     body {
@@ -323,15 +341,6 @@ br.mobile {
 
     section#hero {
         background: linear-gradient(to bottom, #fff 90%, rgb(247, 247, 247));
-    }
-
-    .my-btn {
-        background-color: #0071E3;
-        border-radius: 90px;
-        padding: 5px 25px 5px 25px !important;
-        margin-top: 8px;
-        flex-shrink: 0;
-        color: white !important;
     }
 
     .mobile#pesan {

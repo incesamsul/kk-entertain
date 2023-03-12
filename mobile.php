@@ -81,7 +81,7 @@
     </div>
 </div>
 
-<section id="klien" class="">
+<section id="klien" class="mobile">
     <div class="container">
         <div class="row   ">
             <div class="col-sm-12 text-center item">
