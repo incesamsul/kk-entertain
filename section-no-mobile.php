@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h1 class="gradient-text hero-text typewrite" data-period="2000" data-type='[ "KK Entertain", "Event Organizer", "Sewa Lightning", "Sewa Sound"]'>
+                <h1 class="gradient-text hero-text typewrite" data-period="2000" data-type='[ "KK Entertain", "Event Organizer", "Sewa lighting", "Sewa Sound"]'>
                     KK Entertain
                 </h1>
             </div>
@@ -10,7 +10,7 @@
     </div>
 </section>
 
-<section id="lightning" class="no-mobile">
+<section id="lighting" class="no-mobile">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
@@ -18,7 +18,7 @@
                 <img alt="light2" class="light2" src="./images/light.png">
                 <h1 class="light1-text-top">Fresnel LED cob</h1>
                 <h1 class="light2-text-top">Beam Moving Head</h1>
-                <h1 class="middle-text gradient-text">Sewa <br class="mobile"> Lightning <br> Makassar </h1>
+                <h1 class="middle-text gradient-text">Sewa <br class="mobile"> lighting <br> Makassar </h1>
             </div>
         </div>
     </div>
