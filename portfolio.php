@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
-	<title>KK Entertain | Sewa sound makassar | Sewa Lightning makassar | Portfolio</title>
+	<title>KK Entertain | Sewa sound makassar | Sewa lighting makassar | Portfolio</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta name='robots' content='max-image-preview:large' />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="kk entertain sewa lightning makassar sewa sound makassar" />
-	<meta property="og:description" content="rental lightning makassar rental sound makassar" />
+	<meta property="og:title" content="kk entertain sewa lighting makassar sewa sound makassar" />
+	<meta property="og:description" content="rental lighting makassar rental sound makassar" />
 	<meta property="og:url" content="https://kkentertain.com" />
 	<meta property="og:site_name" content="botting id" />
 
@@ -153,7 +153,7 @@
 						<div class="card card-custom text-center px-0 item">
 							<h4 class="px-5"><strong><?= $row['nama_event'] ?></strong></h4>
 							<div class="text-center d-flex justify-content-center align-items-center flex-column">
-								<img src="<?= $row['img1'] ?>" alt="" width="200" class="mt-4" style="width: 100%; height:190px; object-fit:cover;">
+								<img src="<?= $row['img1'] ?>" width="200" class="mt-4" style="width: 100%; height:190px; object-fit:cover;">
 								<p class="text-secondary mb-0 mt-4"><strong><?= $row['tgl_event'] ?></strong></p>
 								<!-- <p><strong><button class="my-btn btn"><small>Selengkapnya</small></button></strong></p> -->
 							</div>

@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 <h5><strong>Even Organizer Makassar</strong></h5>
-                <p><small>Rental lightning dan sound makassar</small></p>
+                <p><small>Rental lighting dan sound makassar</small></p>
                 <button class="btn my-btn">pesan</button>
             </div>
         </div>
@@ -15,15 +15,15 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="card item text-center">
-                    <h4><strong>Lightning Berkualitas</strong></h4>
+                    <h4><strong>lighting Berkualitas</strong></h4>
                     <div class="owl-carousel">
                         <div class="text-center d-flex justify-content-center align-items-center flex-column">
-                            <img src="./images/light.png" alt="" width="200" class="mt-4" style="width: 60%">
+                            <img alt="light" src="./images/light.png" width="200" class="mt-4" style="width: 60%">
                             <p class="text-secondary mb-0 mt-4"><strong>Lampu Sorot</strong></p>
                             <p><strong>Beam Moving head</strong></p>
                         </div>
                         <div class="text-center">
-                            <img src="./images/light3.png" alt="" width="200" class="mt-4">
+                            <img alt="light" src="./images/light3.png" width="200" class="mt-4">
                             <p class="text-secondary mb-0 mt-4"><strong>Lampu Sorot</strong></p>
                             <p><strong>Fresnel led cob</strong></p>
                         </div>
@@ -36,9 +36,9 @@
                 <div class="card item d-flex justify-content-center align-items-center">
                     <h4><strong>Sound Berkualitas</strong></h4>
                     <div class="text-center">
-                        <img src="./images/sound.png" alt="" width="200" class="mt-4">
+                        <img alt="sound" src="./images/sound.png" width="200" class="mt-4">
                         <p class="text-secondary mb-0 mt-4"><strong>Sound system</strong></p>
-                        <p><strong>JBL Professional</strong></p>
+                        <p><strong>Subwoofer Yamaha DSR 118 </strong></p>
                     </div>
                 </div>
             </div>
@@ -91,41 +91,41 @@
         </div>
         <div class="row text-center mt-5 reveal-item">
             <div class="col-4 item">
-                <img src="./images/klien/novotels.png" alt="" width="200">
+                <img alt="novotels" src="./images/klien/novotels.png" width="200">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/mandiri_taspen.png" alt="" width="200">
+                <img alt="mandiri" src="./images/klien/mandiri_taspen.png" width="200">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/harper.png" alt="" width="200">
+                <img alt="harper" src="./images/klien/harper.png" width="200">
             </div>
         </div>
         <div class="row mt-5 text-center reveal-item smaller-item">
             <div class="col-4 item">
-                <img src="./images/klien/f8mks.png" alt="" width="200">
+                <img alt="f8mks" src="./images/klien/f8mks.png" width="200">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/pemda_pangkep.png" alt="" width="100">
+                <img alt="pemda pangkep" src="./images/klien/pemda_pangkep.png" width="100">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/unismuh.png" alt="" width="100">
+                <img alt="unismuh" src="./images/klien/unismuh.png" width="100">
             </div>
 
         </div>
         <div class="row mt-5 text-center smaller-item">
             <div class="col-4 item">
-                <img src="./images/klien/kementrian_pertanian.png" alt="" width="150">
+                <img alt="kementrian pertanian" src="./images/klien/kementrian_pertanian.png" width="150">
             </div>
             <div class="col-4 item  maxie-item">
-                <img src="./images/klien/logo_wb.png" alt="" width="100">
+                <img alt="logo maxie" src="./images/klien/logo_wb.png" width="100">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/kpu.jpg" alt="" width="100">
+                <img alt="kpu" src="./images/klien/kpu.jpg" width="100">
             </div>
         </div>
         <div class="row mt-5 text-center smaller-item">
             <div class="col-4 item">
-                <img src="./images/klien/mkri.jpg" alt="" width="100">
+                <img alt="mkri" src="./images/klien/mkri.jpg" width="100">
             </div>
         </div>
     </div>

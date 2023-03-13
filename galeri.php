@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
-	<title>KK Entertain | Sewa sound makassar | Sewa Lightning makassar | Portfolio</title>
+	<title>KK Entertain | Sewa sound makassar | Sewa lighting makassar | Portfolio</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta name='robots' content='max-image-preview:large' />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="kk entertain sewa lightning makassar sewa sound makassar" />
-	<meta property="og:description" content="rental lightning makassar rental sound makassar" />
+	<meta property="og:title" content="kk entertain sewa lighting makassar sewa sound makassar" />
+	<meta property="og:description" content="rental lighting makassar rental sound makassar" />
 	<meta property="og:url" content="https://kkentertain.com" />
 	<meta property="og:site_name" content="botting id" />
 

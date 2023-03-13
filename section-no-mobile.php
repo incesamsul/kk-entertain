@@ -14,8 +14,8 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <img class="light1" src="./images/light3.png" alt="">
-                <img class="light2" src="./images/light.png" alt="">
+                <img alt="light1" class="light1" src="./images/light3.png">
+                <img alt="light2" class="light2" src="./images/light.png">
                 <h1 class="light1-text-top">Fresnel LED cob</h1>
                 <h1 class="light2-text-top">Beam Moving Head</h1>
                 <h1 class="middle-text gradient-text">Sewa <br class="mobile"> Lightning <br> Makassar </h1>
@@ -29,7 +29,7 @@
             <div class="col-sm-12">
                 <h1 class="middle-text-sound gradient-text text-center">Sewa <br class="mobile"> Sound <br> Makassar
                 </h1>
-                <img class="sound" src="./images/sound.png" alt="">
+                <img alt="sound" class="sound" src="./images/sound.png">
             </div>
         </div>
     </div>
@@ -101,41 +101,41 @@
         </div>
         <div class="row text-center mt-5 reveal-item">
             <div class="col-4 item">
-                <img src="./images/klien/novotels.png" alt="" width="200">
+                <img alt="novotels" src="./images/klien/novotels.png" width="200">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/mandiri_taspen.png" alt="" width="200">
+                <img alt="mandiri taspen" src="./images/klien/mandiri_taspen.png" width="200">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/harper.png" alt="" width="200">
+                <img alt="harper" src="./images/klien/harper.png" width="200">
             </div>
         </div>
         <div class="row mt-5 text-center reveal-item smaller-item">
             <div class="col-4 item">
-                <img src="./images/klien/f8mks.png" alt="" width="200">
+                <img alt="f8mks" src="./images/klien/f8mks.png" width="200">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/pemda_pangkep.png" alt="" width="100">
+                <img alt="pemda pangkep" src="./images/klien/pemda_pangkep.png" width="100">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/unismuh.png" alt="" width="100">
+                <img alt="unismuh" src="./images/klien/unismuh.png" width="100">
             </div>
 
         </div>
         <div class="row mt-5 text-center smaller-item">
             <div class="col-4 item">
-                <img src="./images/klien/kementrian_pertanian.png" alt="" width="150">
+                <img alt="kementrian pertanian" src="./images/klien/kementrian_pertanian.png" width="150">
             </div>
             <div class="col-4 item  maxie-item">
-                <img src="./images/klien/logo_wb.png" alt="" width="100">
+                <img alt="logo maxie" src="./images/klien/logo_wb.png" width="100">
             </div>
             <div class="col-4 item">
-                <img src="./images/klien/kpu.jpg" alt="" width="100">
+                <img alt="kpu" src="./images/klien/kpu.jpg" width="100">
             </div>
         </div>
         <div class="row mt-5 text-center smaller-item">
             <div class="col-4 item">
-                <img src="./images/klien/mkri.jpg" alt="" width="100">
+                <img alt="mkri" src="./images/klien/mkri.jpg" width="100">
             </div>
         </div>
     </div>

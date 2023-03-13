@@ -38,7 +38,7 @@ function scrollMagicAnimation() {
     let light1 = '.light1';
     let light2 = '.light2';
     let heroText = '.hero-text';
-    let lightingText = '.lightning-text';
+    let lightingText = '.lighting-text';
     let light1TextTop = '.light1-text-top';
     let light2TextTop = '.light2-text-top';
     let middleText = '.middle-text';
@@ -84,12 +84,12 @@ function scrollMagicAnimation() {
 
 
     var scene2 = new ScrollMagic.Scene({
-        triggerElement: '#lightning',
+        triggerElement: '#lighting',
         triggerHook: 0,
         duration: "100%",
     })
         .setTween(tlSecondScroll)
-        .setPin('#lightning')
+        .setPin('#lighting')
         .addTo(controller);
 
 

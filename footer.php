@@ -16,12 +16,13 @@
             </div>
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4 ml-md-5">
-                    <h2 class="ftco-heading-2">Useful Links</h2>
+                    <h2 class="ftco-heading-2">Keyword</h2>
                     <ul class="list-unstyled">
-                        <li><a href="https://www.kkentertain.com" class="py-2 d-block">Event Organizer</a></li>
-                        <li><a href="https://www.kkentertain.com" class="py-2 d-block">Sewa lightning makassar</a></li>
+                        <p><small><strong>jasa rental / penyewaan sound system, lighting, riging dan segala kebutuhan pentas, wedding, konser, seminar dan hajatan</strong></small></p>
+                        <!-- <li><a href="https://www.kkentertain.com" class="py-2 d-block">Event Organizer</a></li>
+                        <li><a href="https://www.kkentertain.com" class="py-2 d-block">Sewa lighting makassar</a></li>
                         <li><a href="https://www.kkentertain.com" class="py-2 d-block">Sewa Sound makassar</a></li>
-                        <li><a href="https://www.kkentertain.com" class="py-2 d-block">Kk entertain</a></li>
+                        <li><a href="https://www.kkentertain.com" class="py-2 d-block">Kk entertain</a></li> -->
                     </ul>
                 </div>
             </div>
