@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>KK Entertain | Sewa sound makassar | Sewa lighting makassar</title>
+	<title>KK Entertain | Sewa sound makassar | Sewa lighting makassar | Video</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta name='robots' content='max-image-preview:large' />
