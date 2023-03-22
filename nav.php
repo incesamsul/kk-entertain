@@ -3,7 +3,7 @@
         <a class="navbar-brand" href="./">KK <span>Entertain <p style="display:none">Sewa lighting makassar</p>
                 .</span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="oi oi-menu"></span> Menu
+            <span class="oi oi-menu text-dark"></span> Menu
         </button>
 
         <div class="collapse navbar-collapse" id="ftco-nav">
@@ -12,7 +12,7 @@
                 <li class="nav-item"><a href="./galeri.php" class="nav-link">Galeri</a></li>
                 <li class="nav-item"><a href="./video.php" class="nav-link">Video</a></li>
                 <li class="nav-item"><a href="./portfolio.php" class="nav-link">Portfolio</a></li>
-                <li class="nav-item mr-md-2"><a target="_blank" href="https://api.whatsapp.com/send?phone=6282194382201&text=Halo" class="nav-link my-btn">Kirim Pesan</a></li>
+                <li class="nav-item mr-md-2 no-mobile"><a target="_blank" href="https://api.whatsapp.com/send?phone=6282194382201&text=Halo" class="nav-link my-btn">Kirim Pesan</a></li>
 
             </ul>
         </div>

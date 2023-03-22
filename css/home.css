@@ -388,4 +388,14 @@ br.mobile {
         left: 5%;
     }
 
+    .navbar-nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #ftco-nav {
+        display: block !important;
+    }
+
 }
